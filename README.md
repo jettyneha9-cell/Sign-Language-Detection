@@ -7,7 +7,6 @@ It's a full end to end DETR object detection pipeline, in this video its fine tu
 
 Setup 
 Install UV - pip install uv
-Clone the repo - git clone https://github.com/nicknochnack/SignDETR .
 Install all the dependencies uv sync
 
 Collecting images
