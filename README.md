@@ -1,7 +1,9 @@
 # Sign-Language-Detection
 It's a full end to end DETR object detection pipeline, in this video its fine tuned for detecting signs but it could definitely be repurposed for other object detection tasks. It covers:  
 ⚡️ Detections using my pre-trained transformer
+
 💾 Collecting custom data for you to train your own
+
 🏋🏽‍♀️ Fine tuning, with or without pre-trained weights
 
 
@@ -20,6 +22,7 @@ Run the labelling tool uv run label-studio
 Create new project, setup
 Labelling shortcuts CTRL + Enter submit, enter number per label
 Training 🦾
+
 Create a checkpoints folder mkdir checkpoints
 Run the training pipeline uv run src/train.py
 Running 🚀
